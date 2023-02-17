@@ -15,10 +15,16 @@
 
 - ⚡ Fun fact **I learn Braille, Morse code, and about the brain in my free time.**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/moharamfatema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moharamfatema" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fatema-moharam-461830213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatema-moharam-461830213" height="30" width="40" /></a>
 <a href="https://kaggle.com/fatemamoharam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatemamoharam" height="30" width="40" /></a>
+<a href="https://hashnode.com/@moharamfatema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@moharamfatema" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
