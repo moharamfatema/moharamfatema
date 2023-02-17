@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Can Someone Tell Me What A Repo Is?](https://medium.com/@moharamfatema/can-someone-tell-me-what-a-repo-is-8c539127e078?source=rss-a236ac11436b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
