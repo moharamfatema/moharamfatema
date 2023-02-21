@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 👨‍💻 All of my projects are available at [https://moharamfatema.github.io/#projects](https://moharamfatema.github.io/#projects)
+- 📝 I regularly write articles on [https://wizardingweb.hashnode.dev/](https://wizardingweb.hashnode.dev/)
 
 - 💬 Ask me about **React, Typescript and Git**
 
@@ -15,10 +15,8 @@
 
 - ⚡ Fun fact **I learn Braille, Morse code, and about the brain in my free time.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git : The Basics](https://medium.com/@moharamfatema/git-the-basics-294edfcbd00a?source=rss-a236ac11436b------2)
-- [Can Someone Tell Me What A Repo Is?](https://medium.com/@moharamfatema/can-someone-tell-me-what-a-repo-is-8c539127e078?source=rss-a236ac11436b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +26,7 @@
 <a href="https://kaggle.com/fatemamoharam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatemamoharam" height="30" width="40" /></a>
 <a href="https://hashnode.com/@moharamfatema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@moharamfatema" height="30" width="40" /></a>
 <a href="https://medium.com/@moharamfatema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moharamfatema" height="30" width="40" /></a>
+<a href="/https://wizardingweb.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wizardingweb.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
