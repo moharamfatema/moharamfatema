@@ -17,6 +17,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git : The Basics](https://wizardingweb.hashnode.dev/git-basics)
+- [Can Someone Tell Me What a Repo Is?](https://wizardingweb.hashnode.dev/can-someone-tell-me-what-a-repo-is)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
