@@ -17,6 +17,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code in Python](https://wizardingweb.hashnode.dev/clean-code-in-python)
 - [Git: A practical guide](https://wizardingweb.hashnode.dev/git-practical-guide)
 - [Git : The Basics](https://wizardingweb.hashnode.dev/git-basics)
 - [Can Someone Tell Me What a Repo Is?](https://wizardingweb.hashnode.dev/can-someone-tell-me-what-a-repo-is)
