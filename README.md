@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moharamfatema" alt="moharamfatema" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 📝 I regularly write articles on [https://wizardingweb.hashnode.dev/](https://wizardingweb.hashnode.dev/)
+- 📝 I write articles on [https://wizardingweb.hashnode.dev/](https://wizardingweb.hashnode.dev/)
 
-- 💬 Ask me about **React, Typescript and Git**
+- 💬 Ask me about **React, NextJS, TailwindCSS, MUI and Git**
 
 - 📫 How to reach me **moharamfatema@gmail.com**
 
